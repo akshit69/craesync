@@ -1,0 +1,15 @@
+{
+	"name": "adf-caresync98",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "221d5f7f-250c-4fe8-b5bf-6e989852980d",
+		"tenantId": "f0f2d53f-d506-4795-9fa3-945e9fe67fb5"
+	}
+}
